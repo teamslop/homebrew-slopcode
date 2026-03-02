@@ -1,8 +1,8 @@
 class Slopcode < Formula
   desc "The open source AI coding agent."
   homepage "https://slopcode.dev"
-  url "https://registry.npmjs.org/slopcode/-/slopcode-0.0.12.tgz"
-  sha256 "30735d84d777247dd7855497a10c107ee8c669486ded489c1582c73993fdec39"
+  url "https://registry.npmjs.org/slopcode/-/slopcode-0.0.56.tgz"
+  sha256 "dff33e568bf890d1b09599df9be0ce085706e53c4c0561df97f012d0aa55d906"
   license "MIT"
 
   livecheck do
